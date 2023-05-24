@@ -1,21 +1,8 @@
 <h1 align="center">
-  <br>Login Page!
+  👽 <br>Login Page!
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
-
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
-
-## 📚 Seções
-
-O site é composto por cinco seções:
-
-- **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Experiências:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
-- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+![Resultado final do projeto](img/preview.logo%20.png)
 
 ---
 
@@ -24,24 +11,25 @@ O site é composto por cinco seções:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML;
-- Sass;
-- JavaScript;
-- ScrollReveal;
-- SVG Inject;
+- CSS;
 
 ---
+**Tela de Login.**
 
-<h2>🦄 Autor</h2>
+Criação de uma tela de login responsiva com tema dark em HTML e CSS.  
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+# 🌀 Proposta <a name="id02"></a>
+
+Uma tela de login responsiva com tema dark para facilitar pessoas que passam muitas horas utilizando o computador.
+
+Este projeto foi projeto proposto pelo [canal do Markzuel](https://www.youtube.com/c/Markzuel) no YouTube. 
+
+
+<br>
+ 📧 
+
+- GitHub - [leocunhap](https://github.com/leocunhap)
+- LinkedIn - [Léo Cunha](https://www.linkedin.com/in/l%C3%A9o-cunha)
+
+**HTML - CSS** 🚀
+

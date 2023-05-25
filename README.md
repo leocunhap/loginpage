@@ -3,7 +3,7 @@
   👽 <br>Login Page!
 </h1>
 
-![Resultado final do projeto](assets/preview.logo%20.png)
+![Resultado final do projeto](assets/img/preview.logo%20.png)
 
 
 Praticando html/css!! (créditos do video https://youtu.be/69-WfrVBli8 )

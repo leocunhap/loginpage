@@ -2,7 +2,7 @@
   👽 <br>Login Page!
 </h1>
 
-![Resultado final do projeto](img/preview.logo%20.png)
+![Resultado final do projeto](assets/preview.logo%20.png)
 
 ---
 
